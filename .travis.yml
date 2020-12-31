@@ -1,4 +1,6 @@
+arch:
+    - amd64
+    - ppc64le
 language: node_js
-node_js:
-  - "0.10"
-  - "0.11"
+node_js: 12
+ 
