@@ -2,5 +2,17 @@ arch:
     - amd64
     - ppc64le
 language: node_js
-node_js: 12
- 
+node_js:
+  - "6"
+  - "7"
+  - "8"
+  - "9"
+  - "10"
+  - "11"
+  - "12"
+  - "13"
+  - "14"
+  - "15"
+  - "node"
+  - "lts/*"
+  
